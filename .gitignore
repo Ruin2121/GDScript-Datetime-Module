@@ -1,4 +1,8 @@
-**
-!.gitattributes
-!.gitignore
-!datetime/**
+.godot/
+*.svg
+*.import
+*.tmp
+node.gd
+*.godot
+*.tscn
+.vscode/
